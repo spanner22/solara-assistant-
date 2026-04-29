@@ -1,2 +1,12 @@
-# solara-assistant-
-Python CLI assistant with memory, moods, and interactive commands.
+# Solara Assistant
+
+A Python command-line assistant I built while learning software development.
+
+## Features
+- Mood-based responses
+- Saved memory system
+- Goal prompts
+- Interactive commands
+
+## Built With
+- Python
